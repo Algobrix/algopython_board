@@ -1,0 +1,38 @@
+{
+   "packages":[
+      {
+         "name": "AlgoPython",
+         "maintainer": "YoungEngineers",		  
+         "websiteURL": "https://www.youngengineers.org/",
+         "email": "semir.tursunovic@microbitdesign.com",
+		 "help": {
+        	"online": "https://www.youngengineers.org/"
+	   },
+     	"platforms":
+		[
+			{
+	           "name": "AlgoPython",
+	           "architecture": "avr",
+	           "version": "0.1.0",
+	           "category": "contributed",
+	           "url": "http://raw.githubusercontent.com/Algobrix/algopython/main/algopython_0.1.0.zip",
+			   "checksum": "SHA-256:94b1ad409d6e2a904e87bd5e4f5c3365929ed68a2d910c238e603539f078f2d1",
+	           "archiveFileName": "algopython_0.1.0.zip",
+	           "size": "258325",
+	           "boards":
+				[
+	              { "name": "AlgoBot_328PB" }
+				],
+	           "toolsDependencies":
+				[				
+				]
+			},
+	     ],      	
+		 "tools":
+		  [		
+		  ]
+		}
+	]  
+}
+
+ 
