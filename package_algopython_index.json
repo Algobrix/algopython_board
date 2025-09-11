@@ -9,6 +9,20 @@
         "online": "https://www.youngengineers.org/"
       },
       "platforms": [
+        {
+          "name": "AlgoPython",
+          "architecture": "avr",
+          "version": "0.1.2",
+          "category": "Contributed",
+          "url": "https://github.com/Algobrix/algopython_board/raw/refs/heads/main/algopython_0.1.2.zip",
+          "checksum": "SHA-256:3b4a1a086e2bee82ed51fbff4cdd01eccc2de98bda17145b4768aa7e2be6e026",
+          "archiveFileName": "algopython_0.1.2.zip",
+          "size": "262359",
+          "boards": [
+            { "name": "AlgoBot_328PB" }
+          ],
+          "toolsDependencies": []
+        },
        {
           "name": "AlgoPython",
           "architecture": "avr",
