@@ -12,6 +12,20 @@
         {
           "name": "AlgoPython",
           "architecture": "avr",
+          "version": "0.1.3",
+          "category": "Contributed",
+          "url": "https://github.com/Algobrix/algopython_board/raw/refs/heads/main/algopython_0.1.3.zip",
+          "checksum": "SHA-256:0cbe5eb497da3e870cb69bfbfab5f5faee8345a6991811254f3e5d5712c82d36",
+          "archiveFileName": "algopython_0.1.3.zip",
+          "size": "263111",
+          "boards": [
+            { "name": "AlgoBot_328PB" }
+          ],
+          "toolsDependencies": []
+        },      
+        {
+          "name": "AlgoPython",
+          "architecture": "avr",
           "version": "0.1.2",
           "category": "Contributed",
           "url": "https://github.com/Algobrix/algopython_board/raw/refs/heads/main/algopython_0.1.2.zip",
